@@ -1,7 +1,8 @@
 # CodePen Export with Build Process
+
 _Transform raw code into a browser-ready preview... offline_
 
-This package contains all of the original code ([src/](./src/)), the original in-browser preview ([/backup/dist](./backup/dist)), and a custom build script with preprocessors. You'll be able to edit and build for a local CodePen-like experience.
+This package contains all of the original code \([src/](https://github.com/csfraley/english/tree/76a7d447d632b0ef8897a813da3ea666092ebf8e/image-slider-with-multiple-controls-and-mobile-swipe-control-javascript/src/README.md)\), the original in-browser preview \([/backup/dist](https://github.com/csfraley/english/tree/76a7d447d632b0ef8897a813da3ea666092ebf8e/image-slider-with-multiple-controls-and-mobile-swipe-control-javascript/backup/dist/README.md)\), and a custom build script with preprocessors. You'll be able to edit and build for a local CodePen-like experience.
 
 ## Installation
 
@@ -11,7 +12,7 @@ All of the following steps run on the command line within this directory. You ca
 
 Install all the necessary packages:
 
-```
+```text
 npm install
 ```
 
@@ -19,25 +20,23 @@ npm install
 
 To build for distribution:
 
-```
+```text
 npm run build
 ```
 
-All of the final output will be dropped into the [/dist/](./dist) folder.
+All of the final output will be dropped into the [/dist/](https://github.com/csfraley/english/tree/76a7d447d632b0ef8897a813da3ea666092ebf8e/image-slider-with-multiple-controls-and-mobile-swipe-control-javascript/dist/README.md) folder.
 
 ## Server
 
 Run a local server that will automatically compile your code & refresh when you save a change!
 
-```
+```text
 npm run serve
 ```
 
----
-
 ## Folder Structure
 
-```
+```text
 /exported-item/
 |-- /build/ - Build scripts
 |  |-- gulpfile.js - The tasks for the main build process
@@ -58,3 +57,4 @@ npm run serve
 |  |-- /dist/
 |  |-- /src/
 ```
+

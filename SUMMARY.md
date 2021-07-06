@@ -10,6 +10,6 @@
 * [image-slider-with-multiple-controls-and-mobile-swipe-control-javascript](image-slider-with-multiple-controls-and-mobile-swipe-control-javascript/README.md)
   * [CodePen Export with Build Process](image-slider-with-multiple-controls-and-mobile-swipe-control-javascript/documentation.md)
   * [Image slider with multiple controls and mobile swipe control \(Javascript\)](image-slider-with-multiple-controls-and-mobile-swipe-control-javascript/image-slider-with-multiple-controls-and-mobile-swipe-control-javascript.md)
-* [pixel-dust](pixel-dust/README.md)
+* [csfraley/english](pixel-dust/README.md)
   * [Pixel Dust](pixel-dust/pixel-dust.md)
 
